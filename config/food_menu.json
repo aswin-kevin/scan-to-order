@@ -1,0 +1,12 @@
+{
+    "menu": [
+        {
+            "dish_name": "ice-cream",
+            "category": "desserts",
+            "dish_amount": 94.0,
+            "availability": false,
+            "description": "This is a fucking good ice cream",
+            "image_url": "https://test.com/image1.png"
+        }
+    ]
+}
